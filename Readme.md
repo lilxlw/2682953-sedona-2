@@ -2,7 +2,7 @@
 
 * Студент: [Лилия](https://up.htmlacademy.ru/htmlcss-individual/2/user/2682953).
 * Наставник: [Александр Козюков](https://htmlacademy.ru/profile/id1119885).
-
+* Сайт [мой проект седона](https://lilxlw.github.io/2682953-sedona-2/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
